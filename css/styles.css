@@ -432,8 +432,6 @@ text-align: center;
 }
 
 .container-footer {
-  justify-content: flex-start;
-  flex-direction: column;
   display: flex;
   align-items: flex-start;
   gap: 120px;
@@ -489,11 +487,3 @@ text-align: center;
 .icons-social-networks-footer:focus {
   background-color: #31d0aa;
 }
-
-
-
-
---justify-content: flex-start;
-  flex-direction: column;
-  display: flex;
-  align-items: baseline;
