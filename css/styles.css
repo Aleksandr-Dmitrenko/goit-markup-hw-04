@@ -432,9 +432,10 @@ text-align: center;
 }
 
 .container-footer {
-  display: flex;
-  align-items: flex-start;
-  gap: 120px;
+    align-items: baseline;
+    display: flex;
+    align-items: flex-start;
+    gap: 120px;
 }
 
 .logo-container-footer {
