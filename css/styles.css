@@ -432,9 +432,8 @@ text-align: center;
 }
 
 .container-footer {
-    align-items: baseline;
     display: flex;
-    align-items: flex-start;
+    align-items: baseline;
     gap: 120px;
 }
 
