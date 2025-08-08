@@ -440,13 +440,16 @@ text-align: center;
   margin-bottom: 16px;
 }
 
+.footer-text-container {
+  margin-right: 120px;
+}
+
 .footer-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
   max-width: 264px;
-  margin-right: 120px;
 }
 .social-footer-text {
   margin-bottom: 16px;
